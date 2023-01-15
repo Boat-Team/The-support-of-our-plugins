@@ -3,7 +3,7 @@ name: Feature Request for GA Plugins
 about: Suggest an idea for a GA plugin
 title: ''
 labels: GA Plugins, Suggestions
-assignees: ''
+assignees: BiliBiliBaiyeCN
 
 ---
 

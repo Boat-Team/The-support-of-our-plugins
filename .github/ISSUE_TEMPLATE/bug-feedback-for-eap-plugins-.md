@@ -2,8 +2,8 @@
 name: Bug Feedback For EAP Plugins.
 about: Improve our plugin via creating one bug feedback
 title: ''
-labels: Bug Shown, EAP Plugins, Waiting for Answers
-assignees: ''
+labels: Bug Shown, EAP Plugins, GA Plugins, Suggestions, Waiting for Answers
+assignees: BiliBiliBaiyeCN, StarryCountry
 
 ---
 

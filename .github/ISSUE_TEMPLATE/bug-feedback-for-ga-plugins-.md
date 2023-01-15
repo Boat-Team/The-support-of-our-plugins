@@ -3,7 +3,7 @@ name: Bug Feedback For GA Plugins.
 about: Improve our plugin via creating one bug feedback
 title: ''
 labels: Bug Shown, GA Plugins, Waiting for Answers
-assignees: ''
+assignees: BiliBiliBaiyeCN, StarryCountry
 
 ---
 

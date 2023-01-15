@@ -3,7 +3,7 @@ name: Feature Request for EAP Plugins
 about: Suggest an idea for an EAP plugin
 title: ''
 labels: EAP Plugins, Suggestions
-assignees: ''
+assignees: BiliBiliBaiyeCN
 
 ---
 
